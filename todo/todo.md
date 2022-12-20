@@ -1,0 +1,1 @@
+#### This program is able to add form data input by the user to the screen using DOM applications and display the text "completed" when clicked. In addition, the entered data is stored in local storage so that the data or function is not lost when the page is refreshed.
